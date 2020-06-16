@@ -1,0 +1,17 @@
+Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:37:02) [MSC v.1924 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\james\OneDrive\School\ASU\Summer 2020\IFT 458 - Middleware Programming\Module 5\japi.py
+Enter a stock symbol: MSFT
+The current price of msft is: $188.9400
+Enter a stock symbol: INTC
+The current price of intc is: $60.1000
+Enter a stock symbol: AMD
+The current price of amd is: $54.6800
+Enter a stock symbol: BA
+The current price of ba is: $200.0856
+Enter a stock symbol: AAPL
+The current price of aapl is: $342.9900
+Enter a stock symbol: quit
+Program has been terminated by the user. Goodbye for now!
+>>> 
