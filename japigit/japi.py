@@ -29,6 +29,5 @@ while stockSymbol != 'quit':
     else:
         #print("Your stock symbol is: " + stockSymbol);
         print(getStockData(stockSymbol));
-print("Program has been terminated by the user. Goodbye for now!");
-
-    
+print("Program has been terminated by the user.");
+print("Stock Quotes retrieved successfully!.");
